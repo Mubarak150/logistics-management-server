@@ -1,0 +1,71 @@
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+.env.* 
+
+# Logs
+logs/
+*.log
+
+# Dependency directories
+jspm_packages/
+
+# Build output
+dist/
+build/
+
+# Temporary files
+tmp/
+temp/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE specific files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Coverage directory used by tools like istanbul
+coverage/
+
+# Debug files
+*.pdb
+*.dSYM/
+
+# Optional npm cache directory
+.npm
+
+# Optional yarn cache directory
+.yarn/
+
+# PM2 logs
+pids/
+*.pid
+*.pid.lock
+
+# npm debug log
+npm-debug.log*
+
+# Yarn lock file (if you're using Yarn)
+yarn.lock
+
+# TypeScript files (if using TypeScript)
+*.tsbuildinfo
+
+# Optional: Jest coverage
+jest-coverage/
+
+# Other
+*.swp
+*.swo
+*.swn
+
+# Webpack files
+.cache/
